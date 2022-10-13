@@ -1,5 +1,5 @@
 # Mijn Oba
-Mijn oba pagina met een persoonlijke boeken tips lijst.
+Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
 
 ## Inhoudsopgave
 
@@ -15,7 +15,6 @@ Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de men
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
 
 
 ## Bronnen
