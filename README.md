@@ -1,5 +1,6 @@
 # Mijn Oba
 Als OBA lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+De site is te bezoeken via deze link: https://yulanstaal3.github.io/the-client-case/
 
 ## Inhoudsopgave
 
