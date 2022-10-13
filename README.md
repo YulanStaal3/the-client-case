@@ -1,5 +1,5 @@
 # Mijn Oba
-<!-- Mijn oba pagina met een persoonlijke boeken tips lijst.-->
+Mijn oba pagina met een persoonlijke boeken tips lijst.
 
 ## Inhoudsopgave
 
@@ -9,7 +9,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de menu balk naar tips gaat, kom je op de pagina van de persoonlijke tips van een gebruiker. Op deze pagina staat een lijst met aanbevolen boeken. Door over een boek heen te gaan met je muis, kan je een boek toevoegen aan je lees lijst.  -->
+Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de menu balk naar tips gaat, kom je op de pagina van de persoonlijke tips van een gebruiker. Op deze pagina staat een lijst met aanbevolen boeken. Door over een boek heen te gaan met je muis, kan je een boek toevoegen aan je lees lijst.
 <!-- Foto toevoegen! -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
