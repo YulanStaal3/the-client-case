@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Mijn Oba
+Mijn oba pagina met een persoonlijke boeken tips lijst.
 
 ## Inhoudsopgave
 
@@ -11,8 +9,8 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
+Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de menu balk naar tips gaat, kom je op de pagina van de persoonlijke tips van een gebruiker. Op deze pagina staat een lijst met aanbevolen boeken. Door over een boek heen te gaan met je muis, kan je een boek toevoegen aan je lees lijst.
+<!-- Foto toevoegen! -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
