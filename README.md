@@ -11,6 +11,7 @@ De site is te bezoeken via deze link: https://yulanstaal3.github.io/the-client-c
   * [Licentie](#licentie)
 
 ## Beschrijving
+
 Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de menu balk naar tips gaat, kom je op de pagina van de persoonlijke tips van een gebruiker. Op deze pagina staat een lijst met aanbevolen boeken. Door over een boek heen te gaan met je muis, kan je een boek toevoegen aan je lees lijst.
 
 <img width="1470" alt="Schermafbeelding 2022-10-13 om 14 53 08" src="https://user-images.githubusercontent.com/112861488/195602105-7bd0ec00-29c7-463a-a387-f52081fb76a0.png">
