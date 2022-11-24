@@ -3,12 +3,7 @@
 Ontwerp en maak een component / website voor een bedrijf en presenteer het resultaat.
 
 ## Context
-Deze leertaak hoort bij sprint 2 The Client. 
-Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
-
-Bij deze leertaak hoort de deeltaak:
-- [The Cient - Briefing/Debriefing](https://github.com/fdnd-task/the-client-briefing-debriefing/)
-
+Deze leertaak hoort bij sprint 2 The Client. Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
 ## Doel van deze opdracht
 Je leert hoe je aan de hand van een user story een (gedeelte van een) website kan ontwerpen en bouwen.
@@ -35,11 +30,11 @@ De development lifecycle kent de volgende stappen:
 De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.
 
 Voor deze leertaak gelden de gedragscriteria voor sprint 2: 
-* Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
-* Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever
-* Samenwerken: Je draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback
-* Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting
-* Probleemoplossend vermogen: Je schetst om gedachten en processen te verkennen
+* Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
+* Je realiseert een oplossing voor een opdrachtgever
+* Je draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback
+* Je analyseert een vraag en volgt de aangeboden oplossingsrichting
+* Je schetst om gedachten en processen te verkennen
 
 Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
